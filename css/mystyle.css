@@ -1,0 +1,21 @@
+#idLandpage{
+  background-image: url('../images/land-page-master-5.png');
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#idPortrait{
+  max-width: 50vw;
+  max-height: 50vh;
+  margin: auto;
+}
+
+#idSectionOne{
+  height: 60px;
+  margin-top: 20px;
+}
+
+#idSectionTwo{
+  height: 60px;
+  margin-top: 40px;
+}
